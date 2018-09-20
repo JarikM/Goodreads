@@ -1,0 +1,15 @@
+Добрый день.
+Вот тестовое задание:
+A. Prepare automation test for the following flow:
+1. Register on https://www.goodreads.com/
+2. Login with invalid credentials
+3. Login with valid credentials
+4. Search for “Best crime and mystery books”
+5. Mark top 3 books as “Want to read”
+6. Mark as read
+7. Rate and leave feedback for them (add different read dates)
+8. Logout
+As a result we need code and videocast of performed tests.
+
+B. Prepare Postman test for Petstore API Pet controller to auto test run.
+As a result we need exported collection with tests.
